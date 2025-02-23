@@ -30,9 +30,9 @@ Environments:
 ### Environment Variables
 
 ```console
-$env:HTTPSTAT_SHOW_HEAD="false"
-$env:HTTPSTAT_SHOW_SPEED="true"
-$env:HTTPSTAT_SAVE_BODY="false"
+$env:HTTPSTAT_SHOW_HEAD="true"
+$env:HTTPSTAT_SHOW_BODY="false"
+$env:HTTPSTAT_SHOW_SPEED="false"
 ```
 
 
